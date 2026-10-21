@@ -1,0 +1,86 @@
+{
+  "@@locale": "en",
+
+  "feed": "FEED",
+  "water": "WATER",
+  "wash": "WASH",
+  "play": "PLAY",
+  "outfit": "OUTFIT",
+  "shop": "SHOP",
+  "hello": "hello!",
+  "confirmPal": "CONFIRM PAL",
+  "chooseYourPal": "CHOOSE YOUR PAL",
+  "saveClose": "SAVE & CLOSE",
+  "top": "Top",
+  "bottom": "Bottom",
+  "none": "None",
+  "noTopsOwned": "No tops owned yet.\nVisit the shop!",
+  "noBottomsOwned": "No bottoms owned yet.\nVisit the shop!",
+  "health": "Health",
+  "closeness": "Closeness",
+  "continueGame": "CONTINUE GAME",
+  "start": "START",
+  "loading": "LOADING PAL...",
+  "settings": "SETTINGS & NOTIFICATIONS",
+  "appSettings": "APP SETTINGS",
+  "language": "Language / Idioma",
+  "fontSize": "Font Size",
+  "brightness": "Screen Brightness",
+  "petRoutineTimers": "PET ROUTINE TIMERS",
+  "setMealTime": "Set Meal Time",
+  "setSleepTime": "Set Sleeping Time",
+  "setWakeTime": "Set Wake Up Time",
+  "notifications": "NOTIFICATIONS",
+  "careReminders": "Care Reminders",
+  "careRemindersDesc": "Send a care reminder notification",
+  "petMessage": "Pet Message",
+  "petMessageDesc": "Send a pet status notification",
+  "sleepAlert": "Sleep Schedule Alert",
+  "sleepAlertDesc": "Send a bedtime notification",
+  "test": "TEST",
+  "buyButton": "Buy",
+  "food": "Food",
+  "toy": "Toy",
+  "noFood": "No food!( ;´ - `;) Please visit the shop.",
+  "noToy": "No toy!( ;´ - `;) Please visit the shop.",
+  "letsFeed": "Let's feed {name}!",
+  "@letsFeed": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "letsPlay": "Let's Play with {name}!",
+  "@letsPlay": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+
+  "dialogueWater": "Thank you!(˶>⩊<˶) Have you drunk your water yet?",
+  "dialogueWash": "Please scrub the bubbles off my body\n(ㅅ´ ˘ `)",
+  "dialogueFed": "Yummy!",
+  "dialoguePlayed": "This is so fun!",
+  "dialogueClean": "I am so clean now!\n٩(^ᗜ^ )و ",
+  "dialogueBought": "Successfully bought {item}!",
+  "@dialogueBought": {
+    "placeholders": {
+      "item": { "type": "String" }
+    }
+  },
+  "dialogueNoCoins": "No coins! ( ;´ - `;) Go play with your pet!",
+
+  "notificationsSimulator": "NOTIFICATIONS SIMULATOR",
+  "careRemindersSimDesc": "Simulate alerts to feed, wash, or play",
+  "petMessageStatuses": "Pet Message Statuses",
+  "petMessageSimDesc": "Simulate hungry/thirsty/bored text box updates",
+  "sleepAlertTitle": "Sleep Schedule Alerts",
+  "sleepAlertSimDesc": "Simulate bedtime notification target triggers",
+  "snackCareReminder": "Reminder: Remember to feed, wash, and play with your pal!",
+  "snackPetMessage": "Message Box: \"I'm lonely and my tummy is rumbling!\"",
+  "snackBedtime": "Bedtime Alert: It is {time}. Time for your pal to go to sleep!",
+  "@snackBedtime": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  }
+}

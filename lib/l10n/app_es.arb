@@ -1,0 +1,86 @@
+{
+  "@@locale": "es",
+
+  "feed": "ALIMENTAR",
+  "water": "AGUA",
+  "wash": "LAVAR",
+  "play": "JUGAR",
+  "outfit": "ROPA",
+  "shop": "TIENDA",
+  "hello": "¡hola!",
+  "confirmPal": "CONFIRMAR AMIGO",
+  "chooseYourPal": "ELIGE TU AMIGO",
+  "saveClose": "GUARDAR Y CERRAR",
+  "top": "Camiseta",
+  "bottom": "Pantalón",
+  "none": "Ninguno",
+  "noTopsOwned": "Sin camisetas.\n¡Visita la tienda!",
+  "noBottomsOwned": "Sin pantalones.\n¡Visita la tienda!",
+  "health": "Salud",
+  "closeness": "Cercanía",
+  "continueGame": "CONTINUAR",
+  "start": "EMPEZAR",
+  "loading": "CARGANDO...",
+  "settings": "AJUSTES Y NOTIFICACIONES",
+  "appSettings": "AJUSTES",
+  "language": "Idioma / Language",
+  "fontSize": "Tamaño de fuente",
+  "brightness": "Brillo de pantalla",
+  "petRoutineTimers": "RUTINA DE LA MASCOTA",
+  "setMealTime": "Hora de comida",
+  "setSleepTime": "Hora de dormir",
+  "setWakeTime": "Hora de despertar",
+  "notifications": "NOTIFICACIONES",
+  "careReminders": "Recordatorios de cuidado",
+  "careRemindersDesc": "Enviar notificación de cuidado",
+  "petMessage": "Mensaje de mascota",
+  "petMessageDesc": "Enviar notificación de estado",
+  "sleepAlert": "Alerta de horario de sueño",
+  "sleepAlertDesc": "Enviar notificación de hora de dormir",
+  "test": "PRUEBA",
+  "buyButton": "Comprar",
+  "food": "Comida",
+  "toy": "Juguete",
+  "noFood": "¡Sin comida! Visita la tienda.",
+  "noToy": "¡Sin juguetes! Visita la tienda.",
+  "letsFeed": "¡Vamos a alimentar a {name}!",
+  "@letsFeed": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "letsPlay": "¡Vamos a jugar con {name}!",
+  "@letsPlay": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+
+  "dialogueWater": "¡Gracias!(˶>⩊<˶) ¿Ya tomaste tu agua hoy?",
+  "dialogueWash": "Por favor frótame las burbujas del cuerpo\n(ㅅ´ ˘ `)",
+  "dialogueFed": "¡Qué rico!",
+  "dialoguePlayed": "¡Esto es muy divertido!",
+  "dialogueClean": "¡Ahora estoy muy limpio!\n٩(^ᗜ^ )و ",
+  "dialogueBought": "¡Compraste {item} con éxito!",
+  "@dialogueBought": {
+    "placeholders": {
+      "item": { "type": "String" }
+    }
+  },
+  "dialogueNoCoins": "¡Sin monedas! ( ;´ - `;) ¡Ve a jugar con tu mascota!",
+
+  "notificationsSimulator": "SIMULADOR DE NOTIFICACIONES",
+  "careRemindersSimDesc": "Simular alertas para alimentar, lavar o jugar",
+  "petMessageStatuses": "Estados de mensajes de mascota",
+  "petMessageSimDesc": "Simular actualizaciones de estado hambriento/sediento/aburrido",
+  "sleepAlertTitle": "Alertas de horario de sueño",
+  "sleepAlertSimDesc": "Simular activadores de notificación de hora de dormir",
+  "snackCareReminder": "Recordatorio: ¡Recuerda alimentar, lavar y jugar con tu amigo!",
+  "snackPetMessage": "Mensaje: \"¡Me siento solo y mi barriga está rugiendo!\"",
+  "snackBedtime": "Alerta de sueño: Son las {time}. ¡Es hora de que tu amigo duerma!",
+  "@snackBedtime": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  }
+}

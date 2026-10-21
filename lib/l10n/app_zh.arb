@@ -1,0 +1,86 @@
+{
+  "@@locale": "zh",
+
+  "feed": "餵食",
+  "water": "喝水",
+  "wash": "洗澡",
+  "play": "玩耍",
+  "outfit": "穿搭",
+  "shop": "商店",
+  "hello": "你好！",
+  "confirmPal": "確認夥伴",
+  "chooseYourPal": "選擇你的夥伴",
+  "saveClose": "儲存並關閉",
+  "top": "上衣",
+  "bottom": "下身",
+  "none": "無",
+  "noTopsOwned": "還沒有上衣。\n去商店看看！",
+  "noBottomsOwned": "還沒有下身。\n去商店看看！",
+  "health": "健康",
+  "closeness": "親密度",
+  "continueGame": "繼續遊戲",
+  "start": "開始",
+  "loading": "載入中...",
+  "settings": "設定與通知",
+  "appSettings": "應用程式設定",
+  "language": "語言 / Language",
+  "fontSize": "字體大小",
+  "brightness": "螢幕亮度",
+  "petRoutineTimers": "寵物作息時間",
+  "setMealTime": "設定用餐時間",
+  "setSleepTime": "設定睡眠時間",
+  "setWakeTime": "設定起床時間",
+  "notifications": "通知",
+  "careReminders": "照顧提醒",
+  "careRemindersDesc": "傳送照顧提醒通知",
+  "petMessage": "寵物訊息",
+  "petMessageDesc": "傳送寵物狀態通知",
+  "sleepAlert": "睡眠時間提醒",
+  "sleepAlertDesc": "傳送就寢通知",
+  "test": "測試",
+  "buyButton": "購買",
+  "food": "食物",
+  "toy": "玩具",
+  "noFood": "沒有食物！請去商店。",
+  "noToy": "沒有玩具！請去商店。",
+  "letsFeed": "來餵 {name} 吧！",
+  "@letsFeed": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "letsPlay": "來和 {name} 玩吧！",
+  "@letsPlay": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+
+  "dialogueWater": "謝謝你！(˶>⩊<˶) 你今天喝水了嗎？",
+  "dialogueWash": "請幫我把泡泡搓掉喔\n(ㅅ´ ˘ `)",
+  "dialogueFed": "好好吃喔！",
+  "dialoguePlayed": "好好玩喔！",
+  "dialogueClean": "我現在好乾淨喔！\n٩(^ᗜ^ )و ",
+  "dialogueBought": "成功購買 {item}！",
+  "@dialogueBought": {
+    "placeholders": {
+      "item": { "type": "String" }
+    }
+  },
+  "dialogueNoCoins": "沒有金幣！( ;´ - `;) 去和你的寵物玩吧！",
+
+  "notificationsSimulator": "通知模擬器",
+  "careRemindersSimDesc": "模擬餵食、洗澡或玩耍的提醒",
+  "petMessageStatuses": "寵物訊息狀態",
+  "petMessageSimDesc": "模擬飢餓／口渴／無聊的狀態更新",
+  "sleepAlertTitle": "睡眠時間提醒",
+  "sleepAlertSimDesc": "模擬就寢通知觸發",
+  "snackCareReminder": "提醒：記得餵食、幫寵物洗澡並陪牠玩！",
+  "snackPetMessage": "訊息框：「我好孤單，肚子也咕咕叫！」",
+  "snackBedtime": "就寢提醒：現在是 {time}，該讓你的夥伴去睡覺囉！",
+  "@snackBedtime": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  }
+}

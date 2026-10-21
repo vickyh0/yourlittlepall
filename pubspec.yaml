@@ -1,0 +1,45 @@
+name: yourlittlepal
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  geolocator: ^14.0.2
+  google_fonts: ^8.1.0
+  http: ^1.6.0
+  provider: ^6.1.5+1
+  screen_brightness: ^2.1.9
+  shared_preferences: ^2.5.5
+  flutter_gen: ^5.14.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/pets/
+    - assets/effects/
+    - assets/outfits/tops/
+    - assets/outfits/bottoms/
+    - assets/icons/
+    - assets/effects/bubble.png
+    - assets/backgrounds/
+
+  fonts:
+    - family: PixelifySans
+      fonts:
+        - asset: assets/fonts/PixelifySans-VariableFont_wght.ttf
+  
+

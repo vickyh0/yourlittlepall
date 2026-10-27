@@ -6,8 +6,6 @@ An interactive, cross-platform digital pet application built with Flutter and Da
 
 YourLittlePal is a modern digital pet companion app that brings classic pet simulation mechanics into a responsive, multi-platform environment. Designed with state management, modular architecture, and offline persistence, the application simulates real-time pet care dynamics, attribute decay loops, and interactive mini-games.
 
-🌐 Click Here to View Live Web Demo
-
 ✨ Key Features
 
 🎮 Interactive Care Mechanics: Feed, groom, pet, and put your digital companion to sleep with responsive UI animations and feedback.

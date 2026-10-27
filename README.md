@@ -32,7 +32,7 @@ Internationalization: Flutter l10n localization framework
 
 Styling & Assets: Custom SVG & Canvas rendering pipelines
 
-🚀 Getting Started
+Try for yourself:
 
 Prerequisites
 
@@ -48,7 +48,7 @@ Installation
 
 Clone the Repository
 
-git clone https://github.com/vickyh0/yourlittlepal.git
+git clone https://github.com/vickyh0/yourlittlepall.git
 cd yourlittlepal
 
 
@@ -56,28 +56,7 @@ Install Dependencies
 
 flutter pub get
 
+Plug a USB cable to your machine from your phone
 
-Run Nationally / Locally
+Press Run
 
-For Web:
-
-flutter run -d chrome
-
-
-For Mobile/Desktop:
-
-flutter run
-
-
-📦 Web Deployment
-
-To build release files for web hosting (e.g., Netlify, Vercel, or GitHub Pages):
-
-flutter build web --release
-
-
-The compiled assets will be generated in the build/web directory ready for deployment.
-
-📄 License
-
-Distributed under the MIT License. See LICENSE for more information.
